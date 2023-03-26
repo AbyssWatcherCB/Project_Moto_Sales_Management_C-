@@ -1,0 +1,78 @@
+C:\Users\hp\source\repos\MotoSalesManagement\MotoSalesManagement\bin\Debug\Clientdtb.mdf
+C:\Users\hp\source\repos\MotoSalesManagement\MotoSalesManagement\bin\Debug\Clientdtb_log.ldf
+C:\Users\hp\source\repos\MotoSalesManagement\MotoSalesManagement\bin\Debug\MotoSalesManagement.exe.config
+C:\Users\hp\source\repos\MotoSalesManagement\MotoSalesManagement\bin\Debug\MotoSalesManagement.exe
+C:\Users\hp\source\repos\MotoSalesManagement\MotoSalesManagement\bin\Debug\MotoSalesManagement.pdb
+C:\Users\hp\source\repos\MotoSalesManagement\MotoSalesManagement\bin\Debug\Guna.UI2.dll
+C:\Users\hp\source\repos\MotoSalesManagement\MotoSalesManagement\bin\Debug\System.Data.SqlClient.dll
+C:\Users\hp\source\repos\MotoSalesManagement\MotoSalesManagement\bin\Debug\System.Data.SqlClient.xml
+C:\Users\hp\source\repos\MotoSalesManagement\MotoSalesManagement\obj\Debug\MotoSalesManagement.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\MotoSalesManagement\MotoSalesManagement\obj\Debug\MotoSalesManagement.Client.resources
+C:\Users\hp\source\repos\MotoSalesManagement\MotoSalesManagement\obj\Debug\MotoSalesManagement.Home.resources
+C:\Users\hp\source\repos\MotoSalesManagement\MotoSalesManagement\obj\Debug\MotoSalesManagement.Login.resources
+C:\Users\hp\source\repos\MotoSalesManagement\MotoSalesManagement\obj\Debug\MotoSalesManagement.Properties.Resources.resources
+C:\Users\hp\source\repos\MotoSalesManagement\MotoSalesManagement\obj\Debug\MotoSalesManagement.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\MotoSalesManagement\MotoSalesManagement\obj\Debug\MotoSalesManagement.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\MotoSalesManagement\MotoSalesManagement\obj\Debug\MotoSalesManagement.csproj.CopyComplete
+C:\Users\hp\source\repos\MotoSalesManagement\MotoSalesManagement\obj\Debug\MotoSalesManagement.exe
+C:\Users\hp\source\repos\MotoSalesManagement\MotoSalesManagement\obj\Debug\MotoSalesManagement.pdb
+C:\Users\hp\source\repos\MotoSalesManagement\MotoSalesManagement\obj\Debug\MotoSalesManagement.ClientProfil.resources
+C:\Users\hp\source\repos\MotoSalesManagement\MotoSalesManagement\obj\Debug\MotoSalesManagement.loadingpage.resources
+C:\Users\hp\source\repos\MotoSalesManagement\MotoSalesManagement\bin\Debug\CircularProgressBar.dll
+C:\Users\hp\source\repos\MotoSalesManagement\MotoSalesManagement\bin\Debug\WinFormAnimation.dll
+C:\Users\hp\source\repos\MotoSalesManagement\MotoSalesManagement\bin\Debug\CircularProgressBar.xml
+C:\Users\hp\source\repos\MotoSalesManagement\MotoSalesManagement\bin\Debug\WinFormAnimation.xml
+C:\Users\hp\source\repos\MotoSalesManagement\MotoSalesManagement\obj\Debug\MotoSalesManagement.frontpage.resources
+C:\Users\hp\source\repos\MotoSalesManagement\MotoSalesManagement\obj\Debug\MotoSalesManagement.payment.resources
+C:\Users\hp\Downloads\COURS EN-LINE\ALGO\22\MotoSalesManagement\bin\Debug\Clientdtb.mdf
+C:\Users\hp\Downloads\COURS EN-LINE\ALGO\22\MotoSalesManagement\bin\Debug\Clientdtb_log.ldf
+C:\Users\hp\Downloads\COURS EN-LINE\ALGO\22\MotoSalesManagement\bin\Debug\MotoSalesManagement.exe.config
+C:\Users\hp\Downloads\COURS EN-LINE\ALGO\22\MotoSalesManagement\bin\Debug\MotoSalesManagement.exe
+C:\Users\hp\Downloads\COURS EN-LINE\ALGO\22\MotoSalesManagement\bin\Debug\MotoSalesManagement.pdb
+C:\Users\hp\Downloads\COURS EN-LINE\ALGO\22\MotoSalesManagement\bin\Debug\CircularProgressBar.dll
+C:\Users\hp\Downloads\COURS EN-LINE\ALGO\22\MotoSalesManagement\bin\Debug\Guna.UI2.dll
+C:\Users\hp\Downloads\COURS EN-LINE\ALGO\22\MotoSalesManagement\bin\Debug\System.Data.SqlClient.dll
+C:\Users\hp\Downloads\COURS EN-LINE\ALGO\22\MotoSalesManagement\bin\Debug\WinFormAnimation.dll
+C:\Users\hp\Downloads\COURS EN-LINE\ALGO\22\MotoSalesManagement\bin\Debug\CircularProgressBar.xml
+C:\Users\hp\Downloads\COURS EN-LINE\ALGO\22\MotoSalesManagement\bin\Debug\System.Data.SqlClient.xml
+C:\Users\hp\Downloads\COURS EN-LINE\ALGO\22\MotoSalesManagement\bin\Debug\WinFormAnimation.xml
+C:\Users\hp\Downloads\COURS EN-LINE\ALGO\22\MotoSalesManagement\obj\Debug\MotoSalesManagement.csproj.AssemblyReference.cache
+C:\Users\hp\Downloads\COURS EN-LINE\ALGO\22\MotoSalesManagement\obj\Debug\MotoSalesManagement.Client.resources
+C:\Users\hp\Downloads\COURS EN-LINE\ALGO\22\MotoSalesManagement\obj\Debug\MotoSalesManagement.ClientProfil.resources
+C:\Users\hp\Downloads\COURS EN-LINE\ALGO\22\MotoSalesManagement\obj\Debug\MotoSalesManagement.frontpage.resources
+C:\Users\hp\Downloads\COURS EN-LINE\ALGO\22\MotoSalesManagement\obj\Debug\MotoSalesManagement.Home.resources
+C:\Users\hp\Downloads\COURS EN-LINE\ALGO\22\MotoSalesManagement\obj\Debug\MotoSalesManagement.Login.resources
+C:\Users\hp\Downloads\COURS EN-LINE\ALGO\22\MotoSalesManagement\obj\Debug\MotoSalesManagement.payment.resources
+C:\Users\hp\Downloads\COURS EN-LINE\ALGO\22\MotoSalesManagement\obj\Debug\MotoSalesManagement.Properties.Resources.resources
+C:\Users\hp\Downloads\COURS EN-LINE\ALGO\22\MotoSalesManagement\obj\Debug\MotoSalesManagement.loadingpage.resources
+C:\Users\hp\Downloads\COURS EN-LINE\ALGO\22\MotoSalesManagement\obj\Debug\MotoSalesManagement.csproj.GenerateResource.cache
+C:\Users\hp\Downloads\COURS EN-LINE\ALGO\22\MotoSalesManagement\obj\Debug\MotoSalesManagement.csproj.CoreCompileInputs.cache
+C:\Users\hp\Downloads\COURS EN-LINE\ALGO\22\MotoSalesManagement\obj\Debug\MotoSalesManagement.csproj.CopyComplete
+C:\Users\hp\Downloads\COURS EN-LINE\ALGO\22\MotoSalesManagement\obj\Debug\MotoSalesManagement.exe
+C:\Users\hp\Downloads\COURS EN-LINE\ALGO\22\MotoSalesManagement\obj\Debug\MotoSalesManagement.pdb
+C:\Users\hp\Desktop\2EME TDI\22\MotoSalesManagement\bin\Debug\Clientdtb.mdf
+C:\Users\hp\Desktop\2EME TDI\22\MotoSalesManagement\bin\Debug\Clientdtb_log.ldf
+C:\Users\hp\Desktop\2EME TDI\22\MotoSalesManagement\bin\Debug\MotoSalesManagement.exe.config
+C:\Users\hp\Desktop\2EME TDI\22\MotoSalesManagement\bin\Debug\MotoSalesManagement.exe
+C:\Users\hp\Desktop\2EME TDI\22\MotoSalesManagement\bin\Debug\MotoSalesManagement.pdb
+C:\Users\hp\Desktop\2EME TDI\22\MotoSalesManagement\bin\Debug\CircularProgressBar.dll
+C:\Users\hp\Desktop\2EME TDI\22\MotoSalesManagement\bin\Debug\Guna.UI2.dll
+C:\Users\hp\Desktop\2EME TDI\22\MotoSalesManagement\bin\Debug\System.Data.SqlClient.dll
+C:\Users\hp\Desktop\2EME TDI\22\MotoSalesManagement\bin\Debug\WinFormAnimation.dll
+C:\Users\hp\Desktop\2EME TDI\22\MotoSalesManagement\bin\Debug\CircularProgressBar.xml
+C:\Users\hp\Desktop\2EME TDI\22\MotoSalesManagement\bin\Debug\System.Data.SqlClient.xml
+C:\Users\hp\Desktop\2EME TDI\22\MotoSalesManagement\bin\Debug\WinFormAnimation.xml
+C:\Users\hp\Desktop\2EME TDI\22\MotoSalesManagement\obj\Debug\MotoSalesManagement.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\2EME TDI\22\MotoSalesManagement\obj\Debug\MotoSalesManagement.Client.resources
+C:\Users\hp\Desktop\2EME TDI\22\MotoSalesManagement\obj\Debug\MotoSalesManagement.ClientProfil.resources
+C:\Users\hp\Desktop\2EME TDI\22\MotoSalesManagement\obj\Debug\MotoSalesManagement.frontpage.resources
+C:\Users\hp\Desktop\2EME TDI\22\MotoSalesManagement\obj\Debug\MotoSalesManagement.Home.resources
+C:\Users\hp\Desktop\2EME TDI\22\MotoSalesManagement\obj\Debug\MotoSalesManagement.Login.resources
+C:\Users\hp\Desktop\2EME TDI\22\MotoSalesManagement\obj\Debug\MotoSalesManagement.payment.resources
+C:\Users\hp\Desktop\2EME TDI\22\MotoSalesManagement\obj\Debug\MotoSalesManagement.Properties.Resources.resources
+C:\Users\hp\Desktop\2EME TDI\22\MotoSalesManagement\obj\Debug\MotoSalesManagement.loadingpage.resources
+C:\Users\hp\Desktop\2EME TDI\22\MotoSalesManagement\obj\Debug\MotoSalesManagement.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\2EME TDI\22\MotoSalesManagement\obj\Debug\MotoSalesManagement.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\2EME TDI\22\MotoSalesManagement\obj\Debug\MotoSalesManagement.csproj.CopyComplete
+C:\Users\hp\Desktop\2EME TDI\22\MotoSalesManagement\obj\Debug\MotoSalesManagement.exe
+C:\Users\hp\Desktop\2EME TDI\22\MotoSalesManagement\obj\Debug\MotoSalesManagement.pdb
